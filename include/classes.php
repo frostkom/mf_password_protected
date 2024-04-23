@@ -60,6 +60,8 @@ class mf_password_protected
 
 		$setting_password_protected_message = get_option('setting_password_protected_message');
 
+		do_log("Move this to MF Auth");
+
 		if($post->ID > 0)
 		{
 			$post_password_protected_message = get_post_meta($post->ID, $this->meta_prefix.'message', true);
