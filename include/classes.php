@@ -2,6 +2,8 @@
 
 class mf_password_protected
 {
+	var $meta_prefix;
+
 	function __construct()
 	{
 		$this->meta_prefix = 'mf_password_protected_';

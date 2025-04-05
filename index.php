@@ -3,7 +3,7 @@
 Plugin Name: MF Password Protected
 Plugin URI: https://github.com/frostkom/mf_password_protected
 Description: Wordpress plugin to change Password protected message
-Version: 1.0.2
+Version: 1.0.3
 Licence: GPLv2 or later
 Author: Martin Fors
 Author URI: https://martinfors.se
